@@ -1,8 +1,7 @@
-# React + Vite
+What is React?
+    React is a popular JavaScript library used for building user interfaces, especially for single-page applications. It allows developers to create reusable UI components, making code more modular and easier to maintain. React is component-based, meaning the user interface is divided into small, independent parts called components.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+What is a React Component?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    A React component is a building block in React applications. It’s like a function or class that can accept inputs (called "props") and return a part of the UI. Components can be reused across the application, making it easier to build complex user interfaces.

@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.my-card{
+  padding: 10px;
+  border: 1px solid lightblue;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px lightslategray;
+  text-align: start;
+  font-size: 15px;
+}
